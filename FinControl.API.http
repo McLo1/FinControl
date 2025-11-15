@@ -1,0 +1,18 @@
+@FinControl.API_HostAddress = http://localhost:5260
+
+#=========================================================
+#Requisições de Categorias
+#=========================================================
+GET {{FinControl.API_HostAddress}}/api/categoria
+Accept: application/json 
+
+###
+
+
+#=========================================================
+#Requisições de Usuarios
+#=========================================================
+GET {{FinControl.API_HostAddress}}/api/usuario
+Accept: application/json
+
+###
