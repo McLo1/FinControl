@@ -3,11 +3,14 @@ O FinControl é um projeto desenvolvido com C# 9.0 e .NET, MySQL e React, atualm
 
 # Ideias para o App
 Dashboards interativos sobre as minhas entradas e saidas
+
 Um chat com Ia dando ideias de investimentos e como seu dinheiro pode ser organizado
+
 Separar tudo com categorias, como gastos-fixos, gastos-viagens, entrada-vendas, etc.
 
 # Ideias complexas que me deixaram doido
 Conectar os bancos do usuario com o APP para que a IA do APP sempre tenha noção do quanto você tem e isso ajude nas ideias da sua organização, com notificações de valores pagos com débito automatico -- 'Internet foi paga no valor de R$ 50,00'
+
 Inserção de planilhas que o usuario talvez já possua para que a IA tenha aonde se basear 
 
 A ideia é ter um APP que organiza suas financias diariamente e ainda te ajuda a organizar sua vida financeira
