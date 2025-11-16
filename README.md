@@ -2,6 +2,7 @@
 O FinControl é um projeto desenvolvido com C# e .NET 9.0, MySQL e React, atualmente tendo apenas o backend pronto sendo possível cadastrar um novo usuario, uma nova categoria e transações que serão feitas, a ideia do APP surgiu com minhas próprias desorganizações financeiras, ao invés de criar planilhas no Excel ou precisar me adaptar a outros apps, decidi criar o meu próprio app para organizar minhas financias
 
 O projeto está sendo desenvolvido com auxilio do ChatGPT, claude e spotify 
+
 O projeto tem por objetivo, organização financeira, aprendizado e trabalhar minha criatividade como Dev
 
 # Ideias para o App
